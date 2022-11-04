@@ -1,4 +1,3 @@
-<img class="center" alt="Coding" width="1000" height="400" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif">
 <h1 align="center">Hi 👋, I'm Pratik Jagdale</h1>
 <h3 align="center">Exploring mythologies and technologies.</h3>
 <img align="right" alt="Coding" width="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a3622ce4-37ee-4595-a5f1-f2e97a89537c/dervy79-9d6ae4d1-b006-452d-9f2c-1e6af8f609b1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EzNjIyY2U0LTM3ZWUtNDU5NS1hNWYxLWYyZTk3YTg5NTM3Y1wvZGVydnk3OS05ZDZhZTRkMS1iMDA2LTQ1MmQtOWYyYy0xZTZhZjhmNjA5YjEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.P3UpW731f4ksn2_8-MaOWjcTRWCxfeuDJt_Ju8htThI">
