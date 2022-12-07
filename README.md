@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/pratiikjagdale" target="blank"><img src="https://img.shields.io/twitter/follow/pratiikjagdale?logo=twitter&style=for-the-badge" alt="pratiikjagdale" /></a> </p>
 
-- 🔭 I’m currently experimenting with **Conway's Game Of Life and Cellular Automata rules**
-
 - 🌱 I’m currently learning **Backend technologies**
 
 - 📫 How to reach me **pratiikjagdale@gmail.com**
